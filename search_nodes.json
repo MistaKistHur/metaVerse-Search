@@ -1,0 +1,47 @@
+{
+ "search_nodes" : [
+        "nodes" : [
+         {
+         "id"          : "0",
+         "name"        : "google",
+         "url"         : "https://www.google.co.uk"
+         "search_term" : undefined
+         "inputs"      : [],
+         ""
+         },
+         {
+         "id"          : "1",        
+         "name"        : "bing",        
+         },
+         {
+         "id"          : "1",        
+         "name"        : "google",          
+         },
+         {
+         "id"          : "2",         
+         "id"          : "1",        
+         "name"        : "searX",          
+         },
+         {
+         "id"          : "3",         
+         "id"          : "1",        
+         "name"        : "searchthat.net",          
+         },
+         {
+         "id"          : "4",         
+         "id"          : "1",        
+         "name"        : "yandex",          
+         },
+         {
+         "id"          : "5",         
+         "id"          : "1",        
+         "name"        : "aol if still alive",          
+         },
+         {
+         "id"          : "6",         
+         "id"          : "1",        
+         "name"        : "wiki",          
+         }
+        ]
+ ]
+}
